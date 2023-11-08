@@ -20,7 +20,7 @@ This information corresponds to agricultural statistics and censuses, as well as
 
  With a view to enabling the comparison of sampling techniques in ACA, without strictly requiring mastery of any specific software for handling geographic information, this work has created a platform that allows this activity to be carried out in R, a language and environment applied to computational statistics (R Foundation, 200-). The platform covers 3 different sampling techniques applied in two stages and it is possible to download the results generated, giving the user the freedom to work independently and make implementations that are not available on the platform.
 
-
+### Example of how the software works while generating artificial population 
 https://github.com/IanniMuliterno/Plataforma-de-amostragem-agr-cola/assets/21000314/65cf5370-e75a-4b39-a3a7-0d3878b33e4e
 
 
